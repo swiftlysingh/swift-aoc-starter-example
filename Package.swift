@@ -21,7 +21,7 @@ let package = Package(
       url: "https://github.com/apple/swift-argument-parser.git",
       .upToNextMajor(from: "1.5.0")),
     .package(
-      url: "https://github.com/swiftformat/swift-format.git",
+      url: "https://github.com/swiftlang/swift-format.git",
       .upToNextMajor(from: "600.0.0"))
   ],
   targets: [
